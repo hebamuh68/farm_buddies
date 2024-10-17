@@ -278,3 +278,4 @@ farm_buddies/media/
 .ipython/
 .env
 .envs/*
+farm_env
